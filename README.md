@@ -1,2 +1,4 @@
 # Front-end-projects
-Collection of front end web development usig BootStrap CSS and JQuery
+Front End project using Bootstrap
+This project is for a fictional Candy Museum
+It is a responsive site
